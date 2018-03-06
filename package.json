@@ -1,0 +1,27 @@
+{
+  "name": "smudge-and-release",
+  "version": "1.0.0",
+  "description": "Web Application for Holistic ways to handle stress and anxiety",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoCodingGenius/Smudge-And-Release.git"
+  },
+  "author": "LaToya Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoCodingGenius/Smudge-And-Release/issues"
+  },
+  "homepage": "https://github.com/NoCodingGenius/Smudge-And-Release#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
